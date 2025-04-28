@@ -1,0 +1,6 @@
+langchain_mcp_adapters
+langgraph
+langchain_openai
+youtube-transcript-api
+# langchain_community
+# huggingface_hub
