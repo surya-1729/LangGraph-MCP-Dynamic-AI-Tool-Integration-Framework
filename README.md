@@ -54,4 +54,4 @@ OPENAI_API_KEY=<your-openai-api-key>
 ## How It Works
 To start, run ```servers/server.py``` in your terminal. This will start the MCP server. Then, in a new terminal, run ```agent.py```. The agent will connect to the server via the MCP client and execute your query, as shown in the demo.
 
-# This work is based on "https://hub.athina.ai/blogs/model-context-protocol-mcp-with-langgraph-agent/"
+This work is based on "https://hub.athina.ai/blogs/model-context-protocol-mcp-with-langgraph-agent/"
